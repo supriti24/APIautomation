@@ -15,14 +15,14 @@
   </properties>
 
   <dependencies>
-    <!-- Rest Assured -->
+    <!--Rest Assured -->
     <dependency>
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
       <version>5.4.0</version>
     </dependency>
 
-    <!-- TestNG -->
+    <!--TestNG -->
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
@@ -30,7 +30,7 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- Gson (for JSON serialization/deserialization) -->
+    <!--Gson (for JSON serialization/deserialization) -->
     <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
